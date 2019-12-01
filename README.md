@@ -18,11 +18,17 @@ Submitted By:
 
 ## Conclusion
 ![A1][assets/Actual_vs_pred_1.png]
+
 ![A2][assets/Actual_vs_pred_2.png]
+
 ![A3][assets/Actual_vs_pred_3.png]
+
 ![A4][assets/Actual_vs_pred_4.png]
+
 ![A5][assets/Actual_vs_pred_5.png]
+
 ![A6][assets/Actual_vs_pred_6.png]
+
 ![A7][assets/Actual_vs_pred_7.png]
 
 
