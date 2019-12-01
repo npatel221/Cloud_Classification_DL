@@ -7,12 +7,6 @@ Submitted By:
  - Nareshkumar Patel
  - Nisarg Patel
 
-### Presentation
-- [PowerPoint]()
-- [PDF]()
-- [YouTube Video]()
-- [GoogleDrive - Colab Notebook]()
-
 ## Introduction
 ![Teaser Animation](assets/Teaser_AnimationwLabels.gif)
 
@@ -56,3 +50,9 @@ Submitted By:
 
 
 ## Next Steps
+
+### Presentation
+- [PowerPoint]()
+- [PDF]()
+- [YouTube Video]()
+- [GoogleDrive - Colab Notebook]()
