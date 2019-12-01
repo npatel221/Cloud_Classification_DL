@@ -16,6 +16,7 @@ Submitted By:
 
 ## Mask R-CNN Model
 ![Train_1_1](assets/Train_1_1.png)
+![Train_1_2](assets/Train_1_2.png)
 
 
 ## Conclusion
