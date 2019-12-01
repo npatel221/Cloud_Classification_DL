@@ -14,6 +14,14 @@ Submitted By:
 
 ## Exploratory Data Analysis (EDA) 
 
+![Empty_Non_Empty_Mask_Chart](assets/Empty_Non_Empty_Mask_Chart.png)
+
+![Cloud_Types_Distribution](assets/Cloud_Types_Distribution.png)
+
+![Num_labels_per_image](assets/Num_labels_per_image.png)
+
+![Cloud_type_correlation](assets/Cloud_type_correlation.png)
+
 ## Mask R-CNN Model
 ![Train_1_1](assets/Train_1_1.png)
 ![Train_1_2](assets/Train_1_2.png)
