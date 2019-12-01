@@ -8,8 +8,9 @@ Submitted By:
  - Nisarg Patel
 
 ## Introduction
+![Teaser](assets/Teaser_AnimationwLabels.gif)
 
-## Dataset
+## Exploratory Data Analysis (EDA) 
 
 ## Setup
 
