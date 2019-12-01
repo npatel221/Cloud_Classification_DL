@@ -38,6 +38,9 @@ Submitted By:
 ![Train_5_1](assets/Train_5_1.png)
 ![Train_5_2](assets/Train_5_2.png)
 
+## Training & Validation Loss
+![Train Loss](assets/loss.png)
+![Val Loss](assets/val_loss.png)
 
 ## Conclusion
 ![A1](assets/Actual_vs_pred_1.png)
@@ -48,6 +51,7 @@ Submitted By:
 ![A6](assets/Actual_vs_pred_6.png)
 ![A7](assets/Actual_vs_pred_7.png)
 
+## Model Evaluation
 
 ## Next Steps
 
