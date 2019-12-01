@@ -40,14 +40,10 @@ Submitted By:
 
 ## Training & Validation Loss
 ![Train Loss](assets/loss.png)
-<center>
- *Training Loss*
-</center>
+*Training Loss*
 
 ![Val Loss](assets/val_loss.png)
-<center>
- *Validation Loss*
-</center>
+*Validation Loss*
 
 ## Conclusion
 ![A1](assets/Actual_vs_pred_1.png)
