@@ -8,7 +8,9 @@ Submitted By:
  - Nisarg Patel
 
 ## Introduction
-![Teaser](assets/Teaser_AnimationwLabels.gif?style=centerme)
+<center>
+![Teaser](assets/Teaser_AnimationwLabels.gif)
+</center>
 
 ## Setup
 
