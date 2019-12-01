@@ -17,7 +17,7 @@ Submitted By:
 ## Mask R-CNN Model
 
 ## Conclusion
-![Teaser](assets/Actual_vs_pred_1.png)
+![A1](assets/Actual_vs_pred_1.png)
 
 
 ## Next Steps
