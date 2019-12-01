@@ -18,6 +18,18 @@ Submitted By:
 ![Train_1_1](assets/Train_1_1.png)
 ![Train_1_2](assets/Train_1_2.png)
 
+![Train_2_1](assets/Train_2_1.png)
+![Train_2_2](assets/Train_2_2.png)
+
+![Train_3_1](assets/Train_3_1.png)
+![Train_3_2](assets/Train_3_2.png)
+
+![Train_4_1](assets/Train_4_1.png)
+![Train_4_2](assets/Train_4_2.png)
+
+![Train_5_1](assets/Train_5_1.png)
+![Train_5_2](assets/Train_5_2.png)
+
 
 ## Conclusion
 ![A1](assets/Actual_vs_pred_1.png)
