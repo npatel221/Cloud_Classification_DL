@@ -10,11 +10,13 @@ Submitted By:
 ## Introduction
 ![Teaser](assets/Teaser_AnimationwLabels.gif)
 
-## Exploratory Data Analysis (EDA) 
-
 ## Setup
 
+## Exploratory Data Analysis (EDA) 
+
 ## Mask R-CNN Model
+![Train_1_1](assets/Train_1_1.png)
+
 
 ## Conclusion
 ![A1](assets/Actual_vs_pred_1.png)
