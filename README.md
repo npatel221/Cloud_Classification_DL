@@ -21,22 +21,21 @@ Libraries used for the project:
 Folder Structure setup for training the model:</br>
 ```
 SCS-DL-3546-Final-Project
-│   README.md (Readme file)
 │   assets (Git README images store directory)
-│   presentation
-│   │   Cloud_Image_Classfication_Presentation.ppsx (Presentation show file)
-│   │   Cloud_Image_Classfication_Presentation.pptx (Powerpoint file)
-│   Cloud_Image_Classification.ipynb
 │   mask_rcnn_cloudimages.h5 (Trained Weights so you don't need to train)
 │   mask_rcnn_coco.h5 (COCO Weights)
 │   Mask_RCNN (mask r-cnn code directory)
+│   presentation
+│   │   Cloud_Image_Classfication_Presentation.ppsx (Presentation show file)
+│   │   Cloud_Image_Classfication_Presentation.pptx (Powerpoint file)
+│   Cloud_Image_Classification.ipynb (Jupyter notebook / source code)
 │   test_images
 │   │   <All images for model testing>
 │   │   # Note this is optional as the test set is not used.
 │   train_images
 │   │   <All images for model training & validation>
 │   train.csv (annotation file that contains the masks for train images)
-
+│   README.md (Readme file)
 ```
 
 ## Exploratory Data Analysis (EDA) 
