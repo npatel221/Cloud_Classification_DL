@@ -18,8 +18,8 @@ Libraries used for the project:
 - TensorFlow (V 1.1.5) - https://github.com/tensorflow/tensorflow
 - COCO Weights - http://cocodataset.org/#home
 
-Folder Structure setup for training the model:
-'SCS-DL-3546-Final-Project' (Base Directory)
+Folder Structure setup for training the model:</br>
+.SCS-DL-3546-Final-Project
 
 ## Exploratory Data Analysis (EDA) 
 
