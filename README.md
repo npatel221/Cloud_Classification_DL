@@ -11,8 +11,10 @@ Submitted By:
 ![Teaser Animation](assets/Teaser_AnimationwLabels.gif)
 
 ## Setup
-Mask R-CNN (V 2.1.0) 
-https://github.com/matterport/Mask_RCNN
+Libraries used for the project:
+- Mask R-CNN (V 2.1.0) - https://github.com/matterport/Mask_RCNN
+- Keras (V 2.2.5) - https://github.com/keras-team/keras/
+- TensorFlow (V 1.1.5) - https://github.com/tensorflow/tensorflow
 
 ## Exploratory Data Analysis (EDA) 
 
