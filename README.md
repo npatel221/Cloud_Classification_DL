@@ -19,7 +19,16 @@ Libraries used for the project:
 - COCO Weights - http://cocodataset.org/#home
 
 Folder Structure setup for training the model:</br>
-.SCS-DL-3546-Final-Project
+```
+SCS-DL-3546-Final-Project
+│   README.md
+│   assets
+│   presentation
+│   Cloud_Image_Classification.ipynb
+│   mask_rcnn_cloudimages.h5
+│   mask_rcnn_coco.h5
+
+```
 
 ## Exploratory Data Analysis (EDA) 
 
