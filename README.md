@@ -62,4 +62,3 @@ Submitted By:
 - [PowerPoint](https://github.com/nishp763/SCS-DL-3546-Final-Project/blob/master/presentation/Cloud_Image_Classfication_Presentation.pptx)
 - [PDF](https://github.com/nishp763/SCS-DL-3546-Final-Project/blob/master/Cloud_Image_Classfication_Presentation_COPY.pdf)
 - [YouTube Video](https://youtu.be/wAOazvwSG5k)
-- [GoogleDrive - Colab Notebook]()
