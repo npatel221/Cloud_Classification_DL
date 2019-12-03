@@ -10,6 +10,22 @@ Submitted By:
 ## Introduction
 ![Teaser Animation](assets/Teaser_AnimationwLabels.gif)
 
+Climate change has been at the top of our minds and on the forefront of important political decision-making for many years. We hope you can use this competition’s dataset to help demystify an important climatic variable. Scientists, like those at Max Planck Institute for Meteorology, are leading the charge with new research on the world’s ever-changing atmosphere and they need your help to better understand the clouds.</br></br>
+
+Shallow clouds play a huge role in determining the Earth's climate. They’re also difficult to understand and to represent in climate models. By classifying different types of cloud organization, researchers at Max Planck hope to improve our physical understanding of these clouds, which in turn will help us build better climate models.</br></br>
+
+There are many ways in which clouds can organize, but the boundaries between different forms of organization are murky. This makes it challenging to build traditional rule-based algorithms to separate cloud features. The human eye, however, is really good at detecting features—such as clouds that resemble flowers.</br></br>
+
+In this challenge, you will build a model to classify cloud organization patterns from satellite images. If successful, you’ll help scientists to better understand how clouds will shape our future climate. This research will guide the development of next-generation models which could reduce uncertainties in climate projections.</br></br>
+
+Identify regions in satellite images that contain certain cloud formations, with label names: `Fish, Flower, Gravel, Sugar`. It is also required to segment the regions of each cloud formation label. Each image can have at least one cloud formation, and can possibly contain up to all all four.</br></br>
+
+The images were downloaded from NASA Worldview. Three regions, spanning 21 degrees longitude and 14 degrees latitude, were chosen. The true-color images were taken from two polar-orbiting satellites, `TERRA` and `AQUA`, each of which pass a specific region once a day. Due to the small footprint of the imager (MODIS) on board these satellites, an image might be stitched together from two orbits. The remaining area, which has not been covered by two succeeding orbits, is marked black.</br></br>
+
+The labels were created in a crowd-sourcing activity at the Max-Planck-Institite for Meteorology in Hamburg, Germany, and the Laboratoire de météorologie dynamique in Paris, France. A team of 68 scientists identified areas of cloud patterns in each image, and each images was labeled by approximately 3 different scientists. Ground truth was determined by the union of the areas marked by all labelers for that image, after removing any black band area from the areas.</br></br>
+
+The segment for each cloud formation label for an image is encoded into a single row, even if there are several non-contiguous areas of the same formation in an image. If there is no area of a certain cloud type for an image, the corresponding EncodedPixels prediction should be left blank. You can read more about the encoding standard on the Evaluation page.</br></br>
+
 
 ## Setup
 Libraries used for the project:
@@ -84,6 +100,7 @@ Here is a glimpse of train images right before the training process. This is wha
 *Validation Loss*
 
 ## Conclusion
+Below are the images of the actual (from the original mask) vs predicted (Mask R-CNN masks with segmentatin)
 ![A1](assets/Actual_vs_pred_1.png)
 ![A2](assets/Actual_vs_pred_2.png)
 ![A3](assets/Actual_vs_pred_3.png)
@@ -93,7 +110,7 @@ Here is a glimpse of train images right before the training process. This is wha
 ![A7](assets/Actual_vs_pred_7.png)
 
 ## Model Evaluation
-We used the `Mean Average Precision (mAP)` score to evaluate our model. `mAP` is the recommended evaluation metric for object detection. For more details on the `mAP` score please check out https://towardsdatascience.com/breaking-down-mean-average-precision-map-ae462f623a52</br>
+We used the `Mean Average Precision (mAP)` score to evaluate our model. `mAP` is the recommended evaluation metric for object detection. For more details on the `mAP` score please check out https://towardsdatascience.com/breaking-down-mean-average-precision-map-ae462f623a52</br></br>
 **`mAP` score on the train set:** 0.24895426446444854</br>
 
 **`mAP` score on the validation set:** 0.23210710847789456</br>
