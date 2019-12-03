@@ -93,6 +93,10 @@ Here is a glimpse of train images right before the training process. This is wha
 ![A7](assets/Actual_vs_pred_7.png)
 
 ## Model Evaluation
+We used the `Mean Average Precision (mAP)` score to evaluate our model. `mAP` is the recommended evaluation metric for object detection. For more details on the `mAP` score please check out https://towardsdatascience.com/breaking-down-mean-average-precision-map-ae462f623a52
+**`mAP` score on the train set:** 0.24895426446444854</br>
+
+**`mAP` score on the validation set:** 0.23210710847789456</br>
 
 ## Next Steps
 1. Train the model for more epochs (100).
