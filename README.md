@@ -49,6 +49,17 @@ SCS-DL-3546-Final-Project
 ![Cloud_type_correlation](assets/Cloud_type_correlation.png)
 
 ## Mask R-CNN Model
+**Model:** Mask R-CNN (Detection & Segmentation)
+**Weight:** Coco
+**Image Dimension:** 1400 x 2100 (H x W)
+**Steps Per Epoch:** 2,218
+**Validation Steps:** 555
+**Confidence:** 70% (minimum)
+**Heads Layer Epoch:**  1 (few as possible)
+**All Layer Epoch:** 5 (Hardware limitations)
+**Training Time:**  ~16 hrs (Colab - GPU)
+**Evaluation Metric:** Mean Average Precision (mAP)
+
 ![Train_1_1](assets/Train_1_1.png)
 ![Train_1_2](assets/Train_1_2.png)
 
@@ -83,6 +94,11 @@ SCS-DL-3546-Final-Project
 ## Model Evaluation
 
 ## Next Steps
+1. Train the model for more epochs (100).
+2. Use Image Augmentation with pre & post processing.
+3. Experiment with different weights (Imagenet).
+4. Experiment with different DL Packages (Py-torch) / Models (Faster R-CNN, U-Net).
+5. Annotate images with segmentation masks.
 
 ### Presentation
 - [PowerPoint](https://github.com/nishp763/SCS-DL-3546-Final-Project/blob/master/presentation/Cloud_Image_Classfication_Presentation.pptx)
