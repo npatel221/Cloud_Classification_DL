@@ -93,7 +93,7 @@ Here is a glimpse of train images right before the training process. This is wha
 ![A7](assets/Actual_vs_pred_7.png)
 
 ## Model Evaluation
-We used the `Mean Average Precision (mAP)` score to evaluate our model. `mAP` is the recommended evaluation metric for object detection. For more details on the `mAP` score please check out https://towardsdatascience.com/breaking-down-mean-average-precision-map-ae462f623a52
+We used the `Mean Average Precision (mAP)` score to evaluate our model. `mAP` is the recommended evaluation metric for object detection. For more details on the `mAP` score please check out https://towardsdatascience.com/breaking-down-mean-average-precision-map-ae462f623a52</br>
 **`mAP` score on the train set:** 0.24895426446444854</br>
 
 **`mAP` score on the validation set:** 0.23210710847789456</br>
@@ -109,3 +109,4 @@ We used the `Mean Average Precision (mAP)` score to evaluate our model. `mAP` is
 - [PowerPoint](https://github.com/nishp763/SCS-DL-3546-Final-Project/blob/master/presentation/Cloud_Image_Classfication_Presentation.pptx)
 - [PDF](https://github.com/nishp763/SCS-DL-3546-Final-Project/blob/master/Cloud_Image_Classfication_Presentation_COPY.pdf)
 - [YouTube Video](https://youtu.be/wAOazvwSG5k)
+- [Google Drive - Colab](https://drive.google.com/drive/folders/1IUn_GJtEMzKHN1AO7vIKvxrKDWhNPM6x?usp=sharing)
