@@ -10,11 +10,16 @@ Submitted By:
 ## Introduction
 ![Teaser Animation](assets/Teaser_AnimationwLabels.gif)
 
+
 ## Setup
 Libraries used for the project:
 - Mask R-CNN (V 2.1.0) - https://github.com/matterport/Mask_RCNN
 - Keras (V 2.2.5) - https://github.com/keras-team/keras/
 - TensorFlow (V 1.1.5) - https://github.com/tensorflow/tensorflow
+- COCO Weights - http://cocodataset.org/#home
+
+Folder Structure setup for training the model:
+'SCS-DL-3546-Final-Project' (Base Directory)
 
 ## Exploratory Data Analysis (EDA) 
 
