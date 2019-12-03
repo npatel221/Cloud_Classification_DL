@@ -11,6 +11,8 @@ Submitted By:
 ![Teaser Animation](assets/Teaser_AnimationwLabels.gif)
 
 ## Setup
+Mask R-CNN (V 2.1.0) 
+https://github.com/matterport/Mask_RCNN
 
 ## Exploratory Data Analysis (EDA) 
 
