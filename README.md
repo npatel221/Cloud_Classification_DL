@@ -49,17 +49,18 @@ SCS-DL-3546-Final-Project
 ![Cloud_type_correlation](assets/Cloud_type_correlation.png)
 
 ## Mask R-CNN Model
-**Model:** Mask R-CNN (Detection & Segmentation)
-**Weight:** Coco
-**Image Dimension:** 1400 x 2100 (H x W)
-**Steps Per Epoch:** 2,218
-**Validation Steps:** 555
-**Confidence:** 70% (minimum)
-**Heads Layer Epoch:**  1 (few as possible)
-**All Layer Epoch:** 5 (Hardware limitations)
-**Training Time:**  ~16 hrs (Colab - GPU)
-**Evaluation Metric:** Mean Average Precision (mAP)
+**Model:** Mask R-CNN (Detection & Segmentation)</br>
+**Weight:** Coco</br>
+**Image Dimension:** 1400 x 2100 (H x W)</br>
+**Steps Per Epoch:** 2,218</br>
+**Validation Steps:** 555</br>
+**Confidence:** 70% (minimum)</br>
+**Heads Layer Epoch:**  1 (few as possible)</br>
+**All Layer Epoch:** 5 (Hardware limitations)</br>
+**Training Time:**  ~16 hrs (Colab - GPU)</br>
+**Evaluation Metric:** Mean Average Precision (mAP)</br>
 
+Here is a glimpse of train images right before the training process. This is what the Mask R-CNN model sees when its training its network.</br>
 ![Train_1_1](assets/Train_1_1.png)
 ![Train_1_2](assets/Train_1_2.png)
 
